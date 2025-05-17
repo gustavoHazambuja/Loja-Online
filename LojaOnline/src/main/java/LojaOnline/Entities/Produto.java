@@ -22,7 +22,7 @@ import lombok.Setter;
 public class Produto {
     
     @Id
-    @GeneratedValue(strategy = GenerationType.UUID)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long codigo;
 
     @Column(columnDefinition = "TEXT")

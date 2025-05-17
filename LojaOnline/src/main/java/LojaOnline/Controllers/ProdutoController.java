@@ -24,8 +24,13 @@ public class ProdutoController {
     
     @Autowired
     private ProdutoService produtoService;
+
+    @Autowired
     private ComprasService comprasService;
+
+    @Autowired
     private VendasService vendasService;
+    
 
     @GetMapping(value = "/produtos")
     public ResponseEntity<Page<Produto>> getProdutos(Pageable pageable){

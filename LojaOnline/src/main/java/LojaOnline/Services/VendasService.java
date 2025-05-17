@@ -35,6 +35,9 @@ public class VendasService {
              precoComDesconto = precoBase * 0.90; // 10% de desconto
              precoFinal = precoComDesconto * 1.05; // 5% de imposto
 
+             result.setQuantidadeEstoque(novaQuantidade);
+             produtoRepository.save(result);
+
              return precoFinal;
         }
         result.setQuantidadeEstoque(novaQuantidade);

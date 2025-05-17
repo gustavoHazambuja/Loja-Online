@@ -1,0 +1,15 @@
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Relógio de Pulso Masculino Aço Inoxidável', 299.90, 25);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Pulseira Couro Genuíno com Fecho Magnético', 89.99, 40);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Carteira Slim Minimalista Masculina Preta', 59.50, 30);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Colar Masculino Viking com Pingente de Martelo', 74.90, 20);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Anel Aço Escovado com Detalhe em Ouro', 129.00, 15);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Óculos de Sol Estilo Aviador Polarizado', 149.90, 18);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Cinto de Couro Premium com Fivela Envelhecida', 99.00, 22);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Boné Aba Reta Bordado Preto', 49.90, 35);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Bracelete Masculino de Silicone com Aço Inox', 69.90, 50);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Relógio Digital Esportivo à Prova d’Água', 219.90, 10);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Corrente Masculina Aço Dourado 60cm', 109.00, 27);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Carteira Porta-Cartões RFID Protection', 72.50, 32);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Pulseira Trançada Preta com Detalhe de Âncora', 64.00, 45);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Chaveiro de Couro Personalizável', 39.90, 60);
+INSERT INTO tb_produto (descricao, preco_unitario, quantidade_estoque) VALUES ('Anel Masculino Estilo Caveira Mexicana', 98.00, 13);
